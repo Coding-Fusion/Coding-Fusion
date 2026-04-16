@@ -94,18 +94,22 @@
 
 <div align="center">
 
-[![ImagePhotoPixel](https://github-readme-stats.vercel.app/api/pin/?username=Coding-Fusion&repo=ImagePhotoPixel&hide_border=true&bg_color=F7F6F2&title_color=01696F&icon_color=DA7101&text_color=28251D)](https://github.com/Coding-Fusion/ImagePhotoPixel)
+[![Learning Python](https://github-readme-stats.vercel.app/api/pin/?username=Coding-Fusion&repo=Learning-Python&hide_border=true&bg_color=F7F6F2&title_color=01696F&icon_color=DA7101&text_color=28251D)](https://github.com/Coding-Fusion/Learning-Python)
 &nbsp;
-[![Watson Chat Assistant](https://github-readme-stats.vercel.app/api/pin/?username=Coding-Fusion&repo=Watson_Chat_Assistant&hide_border=true&bg_color=F7F6F2&title_color=01696F&icon_color=DA7101&text_color=28251D)](https://github.com/Coding-Fusion/Watson_Chat_Assistant)
+[![Watson Chat Assistant](https://github-readme-stats.vercel.app/api/pin/?username=Coding-Fusion&repo=Watson_Chat_Assistant&hide_border=true&bg_color=F7F6F2&title_color=01696F&icon_color=DA7701&text_color=28251D)](https://github.com/Coding-Fusion/Watson_Chat_Assistant)
+&nbsp;
+[![CICalc](https://github-readme-stats.vercel.app/api/pin/?username=Coding-Fusion&repo=CICalc&hide_border=true&bg_color=F7F6F2&title_color=01696F&icon_color=DA7101&text_color=28251D)](https://github.com/Coding-Fusion/CICalc)
+&nbsp;
+[![Jenkins CI/CD](https://github-readme-stats.vercel.app/api/pin/?username=Coding-Fusion&repo=jenkins-cicd&hide_border=true&bg_color=F7F6F2&title_color=01696F&icon_color=DA7101&text_color=28251D)](https://github.com/Coding-Fusion/jenkins-cicd)
 
 </div>
 
 ---
 
-### Profile Trophies
+### Random Dev Quote
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Coding-Fusion&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote"/>
 </div>
 
 ---
